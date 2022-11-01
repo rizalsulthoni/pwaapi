@@ -1,0 +1,24 @@
+{
+"products" : [
+  {"id":1,"name":"Lion, african","category":"Green"},
+  {"id":2,"name":"Great cormorant","category":"Orange"},
+  {"id":3,"name":"Crowned eagle","category":"Puce"},
+  {"id":4,"name":"Indian giant squirrel","category":"Purple"},
+  {"id":5,"name":"Mouflon","category":"Red"},
+  {"id":6,"name":"Mynah, indian","category":"Turquoise"},
+  {"id":7,"name":"White-mantled colobus","category":"Red"},
+  {"id":8,"name":"White-throated monitor","category":"Violet"},
+  {"id":9,"name":"Slender-billed cockatoo","category":"Yellow"},
+  {"id":10,"name":"Eagle owl (unidentified)","category":"Khaki"},
+  {"id":11,"name":"Brush-tailed bettong","category":"Fuscia"},
+  {"id":12,"name":"Squirrel, nelson ground","category":"Yellow"},
+  {"id":13,"name":"Vulture, white-headed","category":"Puce"},
+  {"id":14,"name":"Lilac-breasted roller","category":"Green"},
+  {"id":15,"name":"Crown of thorns starfish","category":"Goldenrod"},
+  {"id":16,"name":"Eastern quoll","category":"Yellow"},
+  {"id":17,"name":"Tortoise, burmese black mountain","category":"Aquamarine"},
+  {"id":18,"name":"Weaver, sociable","category":"Maroon"},
+  {"id":19,"name":"Gull, kelp","category":"Aquamarine"},
+  {"id":20,"name":"Savannah deer (unidentified)","category":"Pink"}
+]
+}
